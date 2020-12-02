@@ -1,5 +1,6 @@
 .vscode/
 
+a.out
 
 # ignore dSYM directories
 *.dSYM
