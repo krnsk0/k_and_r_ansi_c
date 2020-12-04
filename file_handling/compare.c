@@ -49,9 +49,6 @@ int main(int argc, char *argv[])
     }
   }
 
-  printf("r1: %s\n", r1);
-  printf("r2: %s\n", r2);
-
   // if one file longer than other
   if (!r2)
   {
